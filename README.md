@@ -1,6 +1,10 @@
 # pq-wallet
 
-This project is currently in development and not yet ready for production use.
+> [!CAUTION]
+>
+> This project is currently in development and not yet ready for production use.
+>
+
 
 ## Loading Your Extension in Firefox Nightly
 
