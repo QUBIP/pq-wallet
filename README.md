@@ -2,7 +2,7 @@
 
 > [!CAUTION]
 >
-> This project is currently in development and not yet ready for production use.
+> This project is currently under development for research purposes, it is not intended for production use.
 >
 
 
